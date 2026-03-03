@@ -7,7 +7,6 @@ task that need to be done, the amount of people they have to work on in, and whe
 These are the tasks that need to be done: [TASKS]. This all needs to get done by [TIME_LIMIT]. 
 Create a plan that lists what tasks need to be done by who and when it needs to be done.
 
-###### The prompt has clear place holders that account for all important components in a possible business project. 
-Worded to add as many tasks as needed.
+###### The prompt has clear place holders that account for all important components in a possible business project. Worded to add as many tasks as needed.
 
 
